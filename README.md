@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fdesktop-wallpaper-nsnbx&psig=AOvVaw3X6kIZT-uz9V0WBxwlCy6z&ust=1720412418048000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLjXmvuJlIcDFQAAAAAdAAAAABAJ)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffrontendmasters.com%2Fguides%2Ffront-end-handbook%2F2018%2Fpractice%2Fskills.html&psig=AOvVaw13MSmETn5WFbwfWxK_r_BY&ust=1720412528289000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMij66aKlIcDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Devang Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://shorturl.at/zP7Q7">
