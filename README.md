@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/devang_jn999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devang_jn999" height="30" width="40" /></a>
 <a href="https://linkedin.com/devang999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devang-jain-820421281" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61560938705196&mibextid=kfxxjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61560938705196&mibextid=kfxxjd" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/fSd7q8YqENQpd78t/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61560938705196&mibextid=kfxxjd" height="30" width="40" /></a>
 <a href="https://instagram.com/dev.jn.pvtt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.jn.pvtt" height="30" width="40" /></a>
 </p>
 
