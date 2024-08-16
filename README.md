@@ -26,7 +26,7 @@
 <p><a href="https://www.buymeacoffee.com/devang999"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devang999" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devangjain999&show_icons=true&locale=en&layout=compact" alt="devangjain999" /></p>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devangjain999&show_icons=true&locale=en" alt="devangjain999" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devangjain999&" alt="devangjain999" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devangjain999&show_icons=true&locale=en" alt="devangjain999" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=devangjain999&" alt="devangjain999" /></p>
