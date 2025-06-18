@@ -1,32 +1,189 @@
-![logo](https://github.com/devangjain999/devangjain999/blob/main/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg)
-<h1 align="center">Hi 👋, I'm Devang Jain</h1>
-<h3 align="center">A Passionate Frontend Developer From India</h3>
-<img align="right" alt="coding" width="400" src="https://shorturl.at/zP7Q7">
+![ban.png](https://github.com/Arpitgarg07/Arpitgarg07/blob/main/ban.png)
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devangjain999&label=Profile%20views&color=0e75b6&style=flat" alt="devangjain999" /> </p>
+<div align="center">
+  <img height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+</div>
 
-<p align="left"> <a href="https://twitter.com/devang_jn999" target="blank"><img src="https://img.shields.io/twitter/follow/devang_jn999?logo=twitter&style=for-the-badge" alt="devang_jn999" /></a> </p>
+###
 
-- 🌱 I’m currently learning **Full Stack Developing.**
+<h1 align="center">Hi 👋! My name is Devang Jain.</h1>
 
-- 💬 Ask me about **Frontend Developing, Video Editing, Canva, UI/UX**
+###
 
-- 📫 How to reach me **devangjainwork@gmail.com**
+<h3 align="center">A passionate Full Stack Developer from India 🇮🇳.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/devang_jn999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devang_jn999" height="30" width="40" /></a>
-<a href="https://instagram.com/dev.jn.pvtt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.jn.pvtt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devang-jain-820421281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devang-jain-820421281" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/devang999"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devang999" /></a></p><br><br>
+<br clear="both">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devangjain999&show_icons=true&locale=en&layout=compact" alt="devangjain999" /></p>
+<div align="center">
+  <img height="10" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devangjain999&show_icons=true&locale=en" alt="devangjain999" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devangjain999&" alt="devangjain999" /></p>
+<div align="center">
+  <img height="500" src="https://github.com/ChinmayKaitade/chinmaykaitade/raw/main/animated.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="10" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  />
+</div>
+
+###
+
+<h2 align="left">About Me</h2>
+
+###
+
+<br clear="both">
+
+<img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  />
+
+###
+
+<h4 align="left">🌱 I’m currently learning Full Stack Developing.<br><br>💬 Ask me about Frontend Developing, Video Editing, Canva, UI/UX, Figma...><br><br>👨‍💻 All of my projects are available at https://github.com/devangjain999<br><br>📫 How can you reach me devangjainwork@gmail.com</h4>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="10" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">🤞 Connect with Me</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.instagram.com/dev.jn.pvtt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="devangjainwork@gmail.com " target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/devangjain999" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://X.com/devang_jn999" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+###
+
+<br clear="both">
+
+<h2 align="left">🛠 Language and Tools</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="50" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="50" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="10" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  />
+</div>
+
+###
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devangjain999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=devangjain999&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devangjain999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">📈 GitHub Contribution Graph</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devangjain999&radius=16&theme=modern-lilac&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h2 align="left">🏆 GitHub Trophies</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=devangjain999&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+<br clear="both">
+
+<div align="center">
+  <img height="10" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="440" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="10" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  />
+</div>
+
+
+###
+
+<h4 align="center">Made By ❤️ Devang Jain © Copyright. All Rights Reserved @2024.</h4>
+
+###
