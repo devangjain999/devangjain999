@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/devangjain999/devangjain999/main/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" alt="Banner" style="width:100%; height:auto;">
 
+###
 
 <div align="center">
   <img height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
@@ -47,7 +48,7 @@
 
 ###
 
-<h4 align="left">🌱 I’m currently learning Full Stack Developing.<br><br>💬 Ask me about Frontend Developing, Video Editing, Canva, UI/UX, Figma...><br><br>👨‍💻 All of my projects are available at [https://github.com/devangjain999?tab=repositories]<br><br>📫 How can you reach me devangjainwork@gmail.com</h4>
+<h4 align="left">🌱 I’m currently learning Full Stack Developing.<br><br>💬 Ask me about Frontend Developing, Video Editing, Canva, UI/UX, Figma...><br><br>👨‍💻 All of my projects are available at [https://shorturl.at/Rumkq]<br><br>📫 How can you reach me devangjainwork@gmail.com</h4>
 
 ###
 
