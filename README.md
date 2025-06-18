@@ -47,7 +47,7 @@
 
 ###
 
-<h4 align="left">🌱 I’m currently learning Full Stack Developing.<br><br>💬 Ask me about Frontend Developing, Video Editing, Canva, UI/UX, Figma...><br><br>👨‍💻 All of my projects are available at https://github.com/devangjain999<br><br>📫 How can you reach me devangjainwork@gmail.com</h4>
+<h4 align="left">🌱 I’m currently learning Full Stack Developing.<br><br>💬 Ask me about Frontend Developing, Video Editing, Canva, UI/UX, Figma...><br><br>👨‍💻 All of my projects are available at [https://github.com/devangjain999?tab=repositories]<br><br>📫 How can you reach me devangjainwork@gmail.com</h4>
 
 ###
 
