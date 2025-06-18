@@ -1,5 +1,5 @@
-![ban.png](https://github.com/devangjain999/devangjain999/blob/main/ban.png)
-###
+<img src="https://raw.githubusercontent.com/devangjain999/devangjain999/main/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" alt="Banner" style="width:100%; height:auto;">
+
 
 <div align="center">
   <img height="40" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
