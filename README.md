@@ -145,14 +145,6 @@
 
 ###
 
-<h2 align="left">🔥 GitHub Streak</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=devangjain999&theme=aura&hide_border=false" alt="GitHub Streak" />
-</div>
-
-###
-
 <h2 align="left">📈 GitHub Contribution Graph</h2>
 
 ###
