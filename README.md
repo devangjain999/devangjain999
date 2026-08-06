@@ -56,30 +56,10 @@
 <img src="https://img.shields.io/badge/📂_All_GitHub_Projects-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://my-portfolio-gules-alpha-24.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-</td>
-
-<td width="42%" valign="top">
-
-const devang = {
-  focus: "Build • Learn • Grow",
-  stack: ["Web", "Data", "UI/UX"],
-  mindset: "Keep Shipping",
-  available: true,
-};
-
-while (devang.available) {
-  learn();
-  build();
-  improve();
-  repeat();
-}
-</td>
-</tr>
-</table>
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 </td>
 <td width="42%" valign="top">  
