@@ -41,7 +41,7 @@
 <a href="https://github.com/devangjain999?tab=repositories">
 <img src="https://img.shields.io/badge/📂_All_GitHub_Projects-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://my-portfolio-gules-alpha-24.vercel.app/">
+<a href="https://devangjain.me/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 </p>
